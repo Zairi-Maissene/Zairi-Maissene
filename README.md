@@ -12,7 +12,7 @@
 
 📂 Check out my [Portfolio](https://zairi-maissene.github.io/) to dive deeper into my experiences and skills.
 
-🔗 Connect with me on [LinkedIn](linkedin.com/in/maissene-zairi-bbb272241/).
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/maissene-zairi-bbb272241/).
 
 📫 Reach out on email: [maissen.zairi@gmail.com](mailto:maissen.zairi@gmail.com)
 
