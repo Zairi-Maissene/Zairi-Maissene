@@ -1,16 +1,16 @@
-## Hi there 👋
 
 <!--
 **Zairi-Maissene/Zairi-Maissene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## 👋 Hi there! I'm [Your Name] 👨‍💻
+
+🔭 I’m a Software Engineering student passionate about coding and technology.
+
+🌱 Currently diving deep into Data Science, exploring the fascinating world of AI & data!
+
+🚀 Always eager to learn new skills and apply them in real-world projects.
+
+📂 Check out my [Portfolio](https://zairi-maissene.github.io/) to dive deeper into my experiences and skills.
+
+
+
