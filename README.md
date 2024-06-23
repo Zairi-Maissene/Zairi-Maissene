@@ -2,7 +2,7 @@
 <!--
 **Zairi-Maissene/Zairi-Maissene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 👋 Hi there! I'm [Your Name] 👨‍💻
+## 👋 Hi there! I'm Maissene 👨‍💻
 
 🔭 I’m a Software Engineering student passionate about coding and technology.
 
